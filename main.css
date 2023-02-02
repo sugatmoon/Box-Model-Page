@@ -1,3 +1,7 @@
+section {
+    margin-left: 300px;
+    margin-right: 300px;
+}
 .outerBox{
  width: 300px;
  height: 300px;
@@ -5,14 +9,40 @@
  border: 30px solid  rgb(43, 197, 211);
  box-shadow: 0 0 0 50px coral;
  outline: 20px solid black;
- margin-left: 550px;
- margin-bottom: 100px;
+ margin-left: 280px;
+ margin-bottom: 150px
 }
 h2 {
-    margin-left: 500px;
+    margin-left: 280px;
     font-size: 25px;
 }
-.boxPortion {
+h1 {
+    font-size: 50px;
+}
+.dotted {
     border-top: 2px dotted black;
     border-bottom: 2px dotted black;
+    padding-bottom: 20px;
+}
+.button {
+    border-radius: 50%;
+    padding: 10px;
+    border: none;
+    margin-left: 80px;
+    
+}
+.button1 {
+    background-color: blue;
+}
+.button2{
+    background-color: aqua;
+}
+.button3{
+    background-color: black;
+}
+.button4{
+    background-color: coral;
+}
+span {
+    font-size: large;
 }
