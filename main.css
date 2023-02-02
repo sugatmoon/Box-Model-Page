@@ -5,8 +5,14 @@
  border: 30px solid  rgb(43, 197, 211);
  box-shadow: 0 0 0 50px coral;
  outline: 20px solid black;
- 
+ margin-left: 550px;
+ margin-bottom: 100px;
 }
-body {
-
+h2 {
+    margin-left: 500px;
+    font-size: 25px;
+}
+.boxPortion {
+    border-top: 2px dotted black;
+    border-bottom: 2px dotted black;
 }
